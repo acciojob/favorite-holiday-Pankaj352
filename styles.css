@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+ol{
+	list-style:none;
+}
+
+ul{
+	list-style:none;
+}
